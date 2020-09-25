@@ -6,4 +6,3 @@ console.log("aaaa");
 console.log(123123);
 
 console.log(11111);
-
